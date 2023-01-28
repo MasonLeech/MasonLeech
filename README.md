@@ -7,5 +7,5 @@ Not sure what to write here so stuck with the GitHub template.
 - 👯 I’m looking to collaborate on Python and SQL projects!
 - 💬 Ask me about anything and I will try to help you.
 - 📫 How to reach me: My details are located in my personal profile bio.
-- ⚡ Fun fact: I am currently Studying Computing,Mathematics and physics in year 13.
+- ⚡ Fun fact: I am currently Studying Computer Science,Mathematics and physics in year 13.
 - 🛫 Languages: Python and SQL
